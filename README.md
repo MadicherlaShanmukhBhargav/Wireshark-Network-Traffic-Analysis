@@ -105,6 +105,15 @@ Filters help you find specific packets. Type them in the **filter bar** at the t
 
   ![ICMP Filter](images/icmp.png) 
 
+---
+
+## 📜 Description of `wireshark.pcapng`
+This file contains sample network traffic including:
+- **HTTP packets** (web browsing requests)
+- **DNS queries** (domain lookups like `example.com`)
+- **TCP connections** (communication between computers)
+  
+You can open this [file](wireshark.pcapng) on wireshark and practice applying different filters.
 
 
 
